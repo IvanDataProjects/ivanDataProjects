@@ -21,6 +21,7 @@
 - [KNN-Titanic 🚢](https://github.com/IvanDataProjects/knn-titanic) – Predicción de supervivencia en el Titanic utilizando clasificación supervisada con KNN en Python.
 - [CO2-Emisiones 🌍](https://github.com/IvanDataProjects/c02-emisiones) – Análisis de datos sobre emisiones de CO2 entre combustibles tradicionales e híbridos.
 - [Red-Neuronal-Convolucional 🧠](https://github.com/IvanDataProjects/red_neuronal_convolucional) – Implementación de una red neuronal convolucional para reconocimiento de imágenes.
+- [E-commerce Backend 🛒](https://github.com/IvanDataProjects/e-commerce) – API REST de e-commerce desarrollada con Spring Boot, con gestión de usuarios y pedidos, autenticación JWT y arquitectura orientada a microservicios.
 
 📁 Puedes ver todos mis repositorios aquí:  
 🔗 [github.com/IvanDataProjects?tab=repositories](https://github.com/IvanDataProjects?tab=repositories)
