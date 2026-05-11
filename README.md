@@ -24,7 +24,7 @@
 - [E-commerce Backend 🛒](https://github.com/IvanDataProjects/e-commerce) – API REST de e-commerce desarrollada con Spring Boot, con gestión de usuarios y pedidos, autenticación JWT y arquitectura orientada a microservicios.
 
 📁 Puedes ver todos mis repositorios aquí:  
-🔗 [github.com/IvanDataProjects?tab=repositories](https://github.com/IvanDataProjects?tab=repositories)
+🔗 [Repositorio](https://github.com/IvanDataProjects?tab=repositories)
 
 📫 **Contacto**  
 ✉️ ivanraso02@gmail.com  
